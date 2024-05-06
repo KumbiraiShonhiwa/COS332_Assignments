@@ -48,7 +48,7 @@ question = ''
 answer = ''
 
 # Email configuration
-smtp_server = 'smtp.gmail.com'
+smtp_server = 'smtp.mailtrap.io'
 smtp_port = 587
 sender_email = 'kumbishonhiwa@gmail.com'
 sender_password = 'fjapfohxaovlxtvp'
